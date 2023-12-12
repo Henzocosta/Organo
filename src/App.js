@@ -10,7 +10,7 @@ function App() {
 
   const aoNovoColaboradorAdicionado = (colaborador) =>{
     console.log(colaborador)
-    colaborador.push(colaborador)
+    
   }
 
   return (
